@@ -1,2 +1,2 @@
 Git is a Control system
-Git is free softwa
+Git is free software
